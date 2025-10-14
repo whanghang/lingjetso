@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "store": "香港 Citibank",
+    "code": null,
+    "url": "https://www.citibank.com.hk/global_docs/chinese/credit-cards/mgm/promotion-mgm-referee/sms/?media=p62125221010X-CL",
+    "description": "香港 Citibank 信用卡 MGM",
+    "expiry": "2026-02-02",
+    "tags": [
+      "香港",
+      "Citibank",
+      "信用卡"
+    ]
+  },
+  {
+    "id": 2,
+    "store": "香港 American Express",
+    "code": null,
+    "url": "https://americanexpress.com/en-hk/referral/explorer?ref=cHIHAWP8aZ&XL=MIMNS",
+    "description": "香港 AE 信用卡 Referral",
+    "expiry": null,
+    "tags": [
+      "香港",
+      "AE",
+      "信用卡"
+    ]
+  },
+  {
+    "id": 3,
+    "store": "英國 American Express",
+    "code": null,
+    "url": "https://americanexpress.com/en-gb/referral/platinum-credit?ref=cHIHAWaS7F&XL=MIMNS",
+    "description": "英國 AE 信用卡 Referral",
+    "expiry": null,
+    "tags": [
+      "英國",
+      "AE",
+      "信用卡"
+    ]
+  }
+]
