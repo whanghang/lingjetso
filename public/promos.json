@@ -37,5 +37,18 @@
       "AE",
       "信用卡"
     ]
+  },
+  {
+    "id": 4,
+    "store": "英國 Quidco",
+    "code": null,
+    "url": "https://quidco.com/raf/17020825",
+    "description": "£20 bonus will be paid once you've earned £5 cashback",
+    "expiry": null,
+    "tags": [
+      "英國",
+      "Quidco",
+      "Cashback"
+    ]
   }
 ]
