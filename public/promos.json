@@ -50,5 +50,18 @@
       "Quidco",
       "Cashback"
     ]
+  },
+  {
+    "id": 5,
+    "store": "英國 Lloyds Bank",
+    "code": null,
+    "url": "https://apply.lloydsbank.co.uk/sales-content/cwa/l/onboardpca/index-app.html?from=ob&webDirect=true&redesign=true&token=JXiZ6UTJiYuKhmBlRkNguNoZ6qkgafIO5jMraBN6onc=#/refer-friend",
+    "description": "£50 will be pocketed within 30 working days of signing up",
+    "expiry": null,
+    "tags": [
+      "英國",
+      "Lloyds Bank",
+      "Cashback"
+    ]
   }
 ]
